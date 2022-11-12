@@ -38,7 +38,7 @@ form.addEventListener("submit", function(e) {
 			case "luglio":
 			case "agosto":
 			case "ottobre":
-			case "novembre":
+			case "dicembre":
 				days = 31
 			break;
 
